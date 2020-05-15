@@ -25,7 +25,7 @@ The autopilot detects the userinterface state, and starts pilotting when the int
 I've tested this a couple of times, success rate so far is 100% (no spacestations were hurt during these tests.) I haven't tested what happens if the starting position is different, or if you mess with the controls during operation. Also, when you click 'abort', the autopilot will stop clicking buttons. That does not mean the spacecraft will stop moving. A real autopilot should retreat to a safe position when the abort is triggered.
 
 ## Installation
-The easy way to install this is to go to the tampermonkey dashboard, click the 'tools' tab, and use the 'Install from URL' function.
+The easy way to install this is to go to the tampermonkey dashboard, click the 'tools' tab, and use the 'Install from URL' function. Use the following url: https://raw.githubusercontent.com/richmans/autopilot/master/autopilot.js
 
 Another way is to click the '+' tab, and copy all of autopilot.js inside the editor. 
 
