@@ -11,9 +11,9 @@ So, inspired by the heroes of MIT who created the guidance computer, and frustra
 
 I'm using [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=nl) to run this script inside chrome.
 
-Please don't use this code to fly an actual spaceship. In fact, please don't use javascript to fly a spaceship. 
+Please don't use this code to fly an actual spacecraft. In fact, please don't use javascript to fly a spacecraft. 
 
-The autopilot detects the userinterface state, and starts pilotting when the interface is ready. It has a sequence of programs that guide the spaceship to its target:
+The autopilot detects the userinterface state, and starts pilotting when the interface is ready. It has a sequence of programs that guide the spacecraft to its target:
 
 * orient: roll, pitch and yaw errors are minimized
 * translate: y and z errors are minimized
